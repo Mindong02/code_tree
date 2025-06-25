@@ -3,12 +3,10 @@ arr = temp.split()
 a=int(arr[0])
 b=int(arr[1])
 
-if a<b:
+
+if a<b | a==b:
     print("1")
+    print("0")
 else:
     print("0")
-continue
-if a==b:
     print("1")
-else:
-    print("0")
