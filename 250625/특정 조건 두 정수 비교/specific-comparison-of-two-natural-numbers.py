@@ -3,7 +3,7 @@ arr = temp.split()
 
 if a<b:
     print("1")
-else if a>=:
+else if a>=b:
     print("0")
 else if a==b:
     print("1")
