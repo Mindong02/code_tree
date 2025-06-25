@@ -5,8 +5,6 @@ b=int(arr[1])
 
 
 if a<b | a==b:
-    print("1")
-    print("0")
+    print("1 0")
 else:
-    print("0")
-    print("1")
+    print("0 1")
