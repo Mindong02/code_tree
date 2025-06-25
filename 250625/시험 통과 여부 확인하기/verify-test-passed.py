@@ -1,6 +1,6 @@
-input(a)
+N = int(input())
 
-if a>= 80 && a<=100:
+if  N>=80 & N<= 100:
     print("pass")
-else
-    print(a-80 + "more score")
+else :
+    print(80 -N, "more score")
