@@ -3,9 +3,9 @@ arr = temp.split()
 
 if a<b:
     print("1")
-else if a>=b:
+elif a>=b:
     print("0")
-else if a==b:
+elif a==b:
     print("1")
 else:
     print("0")
