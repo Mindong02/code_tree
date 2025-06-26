@@ -1,0 +1,4 @@
+a = str(intput())
+
+for i in range(8):
+    print(a)
