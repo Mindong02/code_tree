@@ -1,0 +1,5 @@
+data = input().split()
+text1  = str(data[0])
+text2  = str(data[1])
+print(text1)
+print(text2)
