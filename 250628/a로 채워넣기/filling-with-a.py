@@ -1,4 +1,8 @@
 text = input()
-result1 = text.replace(text[1],'a',1)
-result2 = result1.replace(result1[-2],'a',1)
-print(result2)
+
+leng =len(text)
+
+text = text[:1]+'a'+text[2:]
+text = text[:leng-2]+'a'+text[leng-1:]
+
+print(text)
