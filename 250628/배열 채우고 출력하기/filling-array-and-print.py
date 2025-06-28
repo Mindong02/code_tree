@@ -1,2 +1,5 @@
 char = list(map(str,input().split()))
-print(char.reverse)
+n = len(char)
+char.reverse()
+for i in range(n):
+    print(char[i], end="")
