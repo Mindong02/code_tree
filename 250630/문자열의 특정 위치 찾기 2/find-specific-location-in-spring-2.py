@@ -1,6 +1,6 @@
 n = str(input())
 
-a = ['apple', 'banana', 'grape', 'bluberry', 'orange']
+a = ['apple', 'banana', 'grape', 'blueberry', 'orange']
 b = list()
 
 cnt=0
