@@ -1,4 +1,8 @@
-matrix = [[3,2,3],[1,3,1],[1,1,1]]
+matrix = []
+
+for i in range(3):
+    row = list(map(int,input().split()))
+    matrix.append(row)
 
 for i in range(3):
     for j in range(3):
