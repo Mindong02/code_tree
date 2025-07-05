@@ -1,3 +1,3 @@
-a=float(input():.2f)
-
+a=input()
+float(a.2f)
 print(a)
