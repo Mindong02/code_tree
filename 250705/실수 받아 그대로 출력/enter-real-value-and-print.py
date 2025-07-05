@@ -1,3 +1,2 @@
-a=input()
-float(a.2f)
-print(a)
+a=float(input())
+print(f"a:2f")
