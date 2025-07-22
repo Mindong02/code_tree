@@ -2,6 +2,6 @@ a = int(input())
 
 print(a)
 if a<0:
-    print(minus)
+    print("minus")
 else:
     a+=1
