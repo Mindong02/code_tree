@@ -9,4 +9,4 @@ elif n>=70:
 elif n>=60:
     print("D")
 else:
-    print("E")
+    print("F")
