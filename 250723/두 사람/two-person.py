@@ -7,3 +7,5 @@ if a1>=19 or b1>=19:
         print("1")
     else:
         print("0")
+else:
+    print("0")
