@@ -5,5 +5,5 @@ b1 = int(b1)
 if a1>=19 or b1>=19:
     if a2 =='M' or b2 == 'M':
         print("1")
-else:
-    print("0")
+    else:
+        print("0")
