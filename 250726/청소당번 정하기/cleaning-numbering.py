@@ -11,6 +11,5 @@ for i in range(a):
         cnt3+=1
     elif i%2==0:
         cnt2+=1
-    print(i)
 
 print(cnt2, cnt3, cnt12, end=" ")
