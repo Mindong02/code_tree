@@ -3,7 +3,7 @@ arr = []
 sum=0
 
 for i in range(a):
-    b = list(map(int, input().split()))
+    b = input().split()
     arr.append(b)
 
 for i in range(a):
