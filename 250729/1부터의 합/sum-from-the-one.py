@@ -5,6 +5,3 @@ for i in range(1,101):
     if sum >= a:
         print(i)
         break
-
-
-print(cnt)
